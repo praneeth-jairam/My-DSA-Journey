@@ -1,2 +1,2 @@
 # DSA-Grind
-My daily DSA grind towards the Success
+My daily DSA grind to make myself consistent
