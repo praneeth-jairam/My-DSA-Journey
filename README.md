@@ -1,6 +1,5 @@
-# Data Structures and Algorithms (DSA) Practice
-
-This repository contains my DSA problem solutions and practice code to track my coding progress.
+# DSA-Grind
+My daily DSA grind to make myself consistent and track coding progress
 
 ## 📁 Folder Structure
 
