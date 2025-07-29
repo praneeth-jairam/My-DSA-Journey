@@ -1,5 +1,5 @@
 # DSA-Grind
-My daily DSA grind to make myself consistent and track coding progress
+My daily DSA grind to make myself consistent and track my coding progress
 
 ## 📁 Folder Structure
 
@@ -8,19 +8,15 @@ My daily DSA grind to make myself consistent and track coding progress
 
 ## 🎯 Goals
 
-- Daily practice of DSA problems
-- Maintain GitHub contribution streak
-- Track problem-solving progress
-- Build a portfolio of solutions
+- Track my problem solving progress
 
 ## 📈 Progress
 
-- ✅ Count Digits Problem
-- ✅ Odd or Even Problem
+- ✅ Working on the fundamentals 
 
 ## 🚀 Languages Used
 
-- C++
+- C++ as the primary language .
 
 ---
 
